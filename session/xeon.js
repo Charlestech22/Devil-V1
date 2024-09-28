@@ -1,3 +1,3 @@
 {
-	"name": "Voltage Bot Multi Device "
+	"name": "Charles Bot Multi Device "
 }
