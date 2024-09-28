@@ -1,4 +1,4 @@
-# GHOST-MD 
+# GHOST-V1
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -9,12 +9,12 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Charles}/count.svg" alt="Charles :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Charlestech22/followers"><img title="Followers" src="https://img.shields.io/github/followers/Charlestech22?color=red&style=flat-square"></a>
-<a href="/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Charlestech22/GHOST-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Charlestech22/GHOST-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Charlestech22/GHOST-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/Charlestech22/GHOST-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Charlestech22/GHOST-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Charlestech22/GHOST-MD?style=flat-square&color=green"></a>
+<a href="/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Charlestech22/Ghost-V1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Charlestech22/Ghost-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Charlestech22/Ghost-V1?color=red&style=flat-square"></a>
+<a href="https://github.com/Charlestech22/Ghost-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Charlestech22/Ghost-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/Charlestech22/Ghost-V1?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharlestech22%2FGHOST-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Charlestech22/GHOST-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Charlestech22/Ghost-V1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -23,10 +23,10 @@
 
 ## GHOST-MD Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Charlestech22/GHOST-MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Charlestech22/Ghost-V1/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://charles-session-id-2l42.onrender.com/pair) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Charlestech22/GHOST-MD)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Charlestech22/Ghost-V1)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaYYdDj8KMqtKBq8M20G) for more**
 9. **All Tutorials Are `COMING SOON`**
 
@@ -61,9 +61,9 @@ GHOST-MD is a easy to use WhatsApp bot.
   
 ## 
 
-- *GHOST-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *GHOST-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use GHOST-MD at your own risk by keeping this warning in mind.*
+- *Use GHOST-V1 at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/Charles/count.svg)
