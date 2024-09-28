@@ -14,7 +14,7 @@ global.botname = 'Ghost V1' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'VOLTAGE 👑\n\nContact: +2348033282342'
+global.author = 'Charles\n\nContact: +2348033282342'
 
 //console view/theme
 global.themeemoji = '🪀'
