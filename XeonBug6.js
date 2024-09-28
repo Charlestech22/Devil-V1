@@ -2274,7 +2274,7 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
-╰┈➤ ${xeonytimewisher} 😄
+╰┈➤ Yoo Dude🤧,thanks for reloying Ghost V1 coded by Charles ${xeonytimewisher} 😄
 ${readmore}
 ╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
 > xandroid 
