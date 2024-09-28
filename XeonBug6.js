@@ -2083,7 +2083,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349155298855") {
+  if (cleanedNumber == "2348033282342") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2115,7 +2115,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349155298855") {
+  if (cleanedNumber == "2348033282342") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2211,7 +2211,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349155298855") {
+  if (cleanedNumber == "2348033282342") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2243,7 +2243,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349155298855") {
+  if (cleanedNumber == "2348033282342") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2378,7 +2378,7 @@ ${readmore}
 > play
 > ytmp3
 > ytmp4
-> sound1 - sound161`
+> sound1- sound161`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2386,7 +2386,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/35961f0c46c3ad56a2fae.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2404,7 +2404,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/35961f0c46c3ad56a2fae.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
